@@ -1,0 +1,28 @@
+body{margin: 0; padding: 0;}
+.warp{
+	width: 980px;
+	margin :0 auto;
+}
+
+.header{
+	height: 140;
+	margin-bottom: 15px;
+	background-color: #0d7963; 
+}
+
+.sidebar{
+	width: 275;
+	height: 450px;
+	background-color: #0d7963; ;
+	float: right;
+}
+
+.clear{
+	clear: both;
+}
+
+.footer{
+	height: 70px;
+	margin-top: 15px;
+	background-color: #0d7963; 
+}
